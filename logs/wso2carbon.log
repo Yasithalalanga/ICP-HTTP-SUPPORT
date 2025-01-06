@@ -1,0 +1,3 @@
+[2025-01-06 17:42:01,166]  INFO {org.wso2.config.mapper.ConfigParser} - Initializing configurations with deployment configurations
+[2025-01-06 17:42:02,282]  INFO {org.wso2.ei.dashboard.bootstrap.DashboardServer} - WSO2 Integration Control Plane started.
+[2025-01-06 17:42:02,282]  INFO {org.wso2.ei.dashboard.bootstrap.DashboardServer} - Login to Integration Control Plane Dashboard : 'https://YasithaG.local:9743/login'
