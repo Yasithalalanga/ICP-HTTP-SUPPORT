@@ -1,0 +1,22 @@
+{
+	"username": "yasithag@wso2.com",
+	"update-level": "3",
+	"channel": "full",
+	"environment": "live",
+	"backup-dir": "/Users/yasithag/.wso2-updates",
+	"product": {
+		"pattern": "wso2-integration-control-plane-1.0.0",
+		"name": "wso2-integration-control-plane",
+		"version": "1.0.0",
+		"backup": "/Users/yasithag/.wso2-updates/backup/wso2-integration-control-plane-1.0.0-a7c40459-b8cd-4ffe-8bba-07f3a569de7e",
+		"backup-size": 81910452
+	},
+	"service": {
+		"url": "https://api.updates.wso2.com",
+		"token-url": "https://api.updates.wso2.com/token",
+		"app-key": "Njg4bTVXTzFDSGlLWGFTT216MDJKOUxMRDYwYTpSOGJnZERXb2pLY0dTdVUyQWhDdzN3OWY3OGNh",
+		"access-token": "eyJ4NXQiOiJ4ek1kUHdzZ2RXZHIwSjBPaW1sQjltNnZfcEUiLCJraWQiOiJaamMxWlRWbVlUaGhNakpsTVRZMU5EZ3dObU13WW1GbE1HWTBObVF5TURjME5tWmpOV1ZtWkRCbE5qZzRNemN5TTJObVpUSmtORGs1TjJJNE5UZzVPUV9SUzI1NiIsInR5cCI6ImF0K2p3dCIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiJ5YXNpdGhhZ0B3c28yLmNvbSIsImF1dCI6IkFQUExJQ0FUSU9OX1VTRVIiLCJhdWQiOlsiNjg4bTVXTzFDSGlLWGFTT216MDJKOUxMRDYwYSIsImNob3JlbzpkZXBsb3ltZW50OnByb2R1Y3Rpb24iXSwibmJmIjoxNzM2MTMxODE5LCJhenAiOiI2ODhtNVdPMUNIaUtYYVNPbXowMko5TExENjBhIiwib3JnX2lkIjoiMTE3Mzc0MjItNzA3OC04NTEwLTEwNzQtODIwODkyNjMxMTk0IiwiaXNzIjoiaHR0cHM6XC9cL2FwaS5hc2dhcmRlby5pb1wvdFwvd3NvMlwvb2F1dGgyXC90b2tlbiIsImV4cCI6MTczNjEzNTQxOSwib3JnX25hbWUiOiJ3c28yIiwiaWF0IjoxNzM2MTMxODE5LCJqdGkiOiIwNTRkZWYzZS01NTFjLTQwN2EtYTVjNS01ODIwNjU1OGJlMGUiLCJjbGllbnRfaWQiOiI2ODhtNVdPMUNIaUtYYVNPbXowMko5TExENjBhIn0.IgSkJL42wLs407mJp0EcRrwJpL6rhyCqC_BzapWjD_EbXBBYnEQITqL0yn0I66-R2JryVbSQ5xUOcZ8k2pakjDno1NwiYfbB1I9SPQnB5zUnqjxNykgK-SnaIhkXzA6-qqPbEGHzFOCC_9YORhrGOoITxU6QMXqAsD6fO-HHHDjvejHsDMswAhd14MATcUgWHJDKpKvro83OynPQT4nzsr4WgzeEBtqbl4bPFYHnH7z7ZfRyC9sx194zgYz_Qh8vxD82zJxrcU_YOiy4KjYqiu1xHmtj3X5YWioiwKgTnlZ9DVpr5PCgirq7MAMGxSWsVTn3_SraDMUD6elzzwAumA",
+		"refresh-token": "c7b9bba0-8e28-3e20-a8e0-48a433ce5936"
+	},
+	"hotfixes": null
+}
